@@ -18,6 +18,8 @@ myFunction();
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
 
+// because of scope the function can see and use variables up from its CaretPosition.
+
 
 
 
