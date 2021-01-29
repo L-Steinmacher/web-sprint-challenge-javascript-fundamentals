@@ -220,7 +220,11 @@ class CuboidMakerTwo{
 
 }
 
-const cuboidTwo = new CuboidMakerTwo(4,5,5)
+const cuboidTwo = new CuboidMakerTwo({
+  length:4,
+  width:5,
+  height:5,
+})
 
 
 //🦄🦄🦄 Test your volume and surfaceArea methods by uncommenting the logs below: 🦄🦄🦄
