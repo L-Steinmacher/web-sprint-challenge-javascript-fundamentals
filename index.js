@@ -235,7 +235,7 @@ console.log(cuboidTwo.surfaceArea()); // 130
   
 
 
-class CubeMaker extends CuboidMaker{
+class CubeMaker extends CuboidMakerTwo{
   constructor(thing){
     super(thing);
   }
